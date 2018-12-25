@@ -1,0 +1,58 @@
+.interest {
+  display: inline-block;
+  height: 250px;
+  width: 250px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.title {
+  font-family: "Mountains of Christmas", cursive;
+  font-weight: bolder;
+  font-size: 100px;
+  color: red;
+}
+.fa {
+  font-size: 50px;
+}
+
+#controls {
+  background-color: transparent !important;
+  color: white;
+}
+body {
+  background-color: transparent;
+}
+.pitbull {
+  background-image: url("../img/pitbull-christmas-presents.jpg");
+  height: 500px;
+  width: 500px;
+}
+.kitkatcreme {
+  background-image: url("../img/kitkatcreme.png");
+}
+.wine {
+  background-image: url("../img/wine.jpg");
+}
+.wine2 {
+  background-image: url("../img/wineandglass.jpg");
+}
+.denise {
+  background-image: url("../img/denisehuxtable.jpg");
+}
+.denise2 {
+  background-image: url("../img/denisehuxtable2.jpg");
+}
+#controls {
+  background: white;
+  background-size: auto;
+  width: 66px;
+}
+
+html {
+  width: 90%;
+  align-content: center;
+  background-size: cover;
+  display: inline-block;
+  background-image: url("../img/bg.jpg");
+}
