@@ -10,7 +10,7 @@
   font-family: "Mountains of Christmas", cursive;
   font-weight: bolder;
   font-size: 100px;
-  color: red;
+  color: hsl(100, 60%, 60%);
 }
 .fa {
   font-size: 50px;
